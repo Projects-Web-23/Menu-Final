@@ -57,20 +57,20 @@ Here are some screenshots showcasing the Resume Builder App's user interface and
 
 **Home Page**
 
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/home-page.jfif)
 _The home page of the Gusteau's Menu App._
 
 **Resume Builder**
 
-![About  Page](screenshots/about-page.png)
+![About  Page](screenshots/about-page.jfif)
 _This page includes information about Gusteau's._
 
 **Generated Resume**
 
-![Menu Page](screenshots/menu.png)
+![Menu Page](screenshots/menu.jfif)
 _The menu page displaying various menu items.._
 
-![Detailed item View](screenshots/menu-details.png)
+![Detailed item View](screenshots/menu-details.jfif)
 _The detailed view of a menu item, including the dish's name, price and description._
 
    
